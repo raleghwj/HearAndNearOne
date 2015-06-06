@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1377195178">
+    <data-source source="LOCAL" name="Django default" uuid="8d67e654-befb-4812-b6aa-fbad3c291376">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/HearNearDb</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
